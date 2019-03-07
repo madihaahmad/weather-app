@@ -7,7 +7,7 @@ import Header from "./components/header";
 
 class App extends Component {
   state = {
-    cities: ["lahore", "berlin"],
+    cities: ["london", "berlin"],
     openModal: false
   };
 
